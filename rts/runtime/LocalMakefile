@@ -1,0 +1,4 @@
+src_rts_runtime:=				\
+	rts/runtime/DomainDescription.cpp	\
+	rts/runtime/Runtime.cpp
+
